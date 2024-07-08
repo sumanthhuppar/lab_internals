@@ -1,2 +1,2 @@
-this is 1st line (in main branch)
+this is a line (in main branch)
 this is 2nd line (in branch1)
